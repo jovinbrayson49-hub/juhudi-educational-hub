@@ -1,0 +1,16 @@
+{
+  "name": "juhudi-educational-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Android wrapper for Juhudi Forums",
+  "scripts": {
+    "build": "echo Static app: no build step required",
+    "cap:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appId": "com.jovinbrayson.juhudieducationalhub",
+  "appName": "Juhudi Educational Hub",
+  "webDir": "www",
+  "server": {
+    "allowNavigation": [
+      "sites.google.com"
+    ]
+  }
+}
